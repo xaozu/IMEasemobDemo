@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMEasemobDemo</string>
+
+    <string name="at_your_in_group">%s @ you in group chat</string>
+</resources>
